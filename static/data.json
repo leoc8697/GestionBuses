@@ -1,0 +1,47 @@
+[
+    {
+        "hourDetection": "23:32:56", 
+        "yearDetection": 2020, 
+        "Id": 25, 
+        "dateTimeDetection": "Thu Mar 12 23:32:56 2020", 
+        "dayDetection": 12, 
+        "beaconMAC": "AC:23:3F:A1:0C:78", 
+        "monthDetection": "March"
+    }, 
+    {
+        "hourDetection": "23:32:59", 
+        "yearDetection": 2020, 
+        "Id": 24, 
+        "dateTimeDetection": "Thu Mar 12 23:32:59 2020", 
+        "dayDetection": 12, 
+        "beaconMAC": "AC:23:3F:A1:0C:78", 
+        "monthDetection": "March"
+    }, 
+    {
+        "hourDetection": "16:20:05", 
+        "yearDetection": 2020, 
+        "Id": 23, 
+        "dateTimeDetection": "Wed Mar 11 16:20:05 2020", 
+        "dayDetection": 11, 
+        "beaconMAC": "AC:23:3F:A1:0C:78", 
+        "monthDetection": "March"
+    }, 
+    {
+        "hourDetection": "14:36:08", 
+        "yearDetection": 2020, 
+        "Id": 22, 
+        "dateTimeDetection": "Wed Mar 11 14:36:08 2020", 
+        "dayDetection": 11, 
+        "beaconMAC": "AC:23:3F:A1:0C:78", 
+        "monthDetection": "March"
+    }, 
+    {
+        "hourDetection": "14:36:11", 
+        "yearDetection": 2020, 
+        "Id": 21, 
+        "dateTimeDetection": "Wed Mar 11 14:36:11 2020", 
+        "dayDetection": 11, 
+        "beaconMAC": "AC:23:3F:A1:0C:78", 
+        "monthDetection": "March"
+    }
+]
